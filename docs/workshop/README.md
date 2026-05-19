@@ -22,12 +22,13 @@ This keeps the workshop materials close to the repository documentation while se
 ## Sessions
 
 1. Introduction to Colab and Research Computing
-2. Python Foundations for Research
-3. Git and GitHub Fundamentals
-4. Unit Testing and Continuous Integration
-5. Running a Real Research Repository
-6. Scientific Visualization and Data
-7. Contributing to Research Code
+3. Python Foundations for Research
+4. Git and GitHub Fundamentals
+5. Unit Testing and Continuous Integration
+6. Running a Real Research Repository
+7. Scientific Visualization and Data
+8. VS Code Session + SSH + Local development on ODU and UMD clusters + SLURM
+9. Contributing to Research Code
 
 ## Suggested repository layout
 
